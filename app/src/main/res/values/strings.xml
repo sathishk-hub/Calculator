@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="backspace">⌫</string>
+    <string name="divide">÷</string>
+    <string name="square">x²</string>
+    <string name="posneg">±</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+    <string name="history">History</string>
+    <string name="clearHistory">Clear\tHistory</string>
+    <string name="title_activity_history">History</string>
+    <string name="deleteHistory">Delete History</string>
+
+</resources>
